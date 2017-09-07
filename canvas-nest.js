@@ -28,15 +28,15 @@
       o: get_attribute(script, "opacity", 0.5), //opacity
       c: get_attribute(script, "color", "0,0,0"), //color
       n: get_attribute(script, "count", 99), //count
-	  e: get_attribute(script, "eId",'nest')//id
+      e: get_attribute(script, "eId",'nest')//id
     };
   }
   //设置canvas的高宽
   function set_canvas_size() {
       //canvas_width = the_canvas.width = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth, 
       //canvas_height = the_canvas.height = window.innerHeight || document.documentElement.clientHeight || document.body.clientHeight;
-	  canvas_width= the_canvas.width=get_by_id(config.e).clientWidth;
-	  canvas_height= the_canvas.height=get_by_id(config.e).clientHeight;
+      canvas_width = the_canvas.width = get_by_id(config.e).clientWidth;
+      canvas_height = the_canvas.height = get_by_id(config.e).clientHeight;
   }
 
   //绘制过程
