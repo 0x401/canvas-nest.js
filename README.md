@@ -32,4 +32,4 @@
 ```html
 <script type="text/javascript" color="0,0,0" opacity='0.5' count="150" zIndex="-1" eId="abc" src="canvas-nest.min.js"></script>
 ```
-此处`eid="abc"`,这需要在设置对应元素的`id="abc"`
+此处`eId="abc"`,则需要设置对应元素的`id="abc"`
