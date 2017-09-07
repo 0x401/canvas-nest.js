@@ -3,6 +3,7 @@
  * License: MIT
  * Version: v1.0.1
  * GitHub: https://github.com/hustcc/canvas-nest.js
+ * GitHub: https://github.com/0x401/canvas-nest.js
 **/
 ! function() {
   //封装方法，压缩之后减少文件大小
