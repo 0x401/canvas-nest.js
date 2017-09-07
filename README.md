@@ -24,7 +24,7 @@
 
 `count`: 线条的总数量, 默认: 150
 
-`zIndex`: 背景的z-index属性，css属性用于控制所在层的位置, 默认: -1
+`zIndex`: 背景的z-index属性，css属性用于控制所在层的位置, 默认: 1
 
 **`eId`:元素ID，默认：nest**
 
