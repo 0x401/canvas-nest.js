@@ -19,7 +19,7 @@
 - opacity: 线条透明度（0~1）, 默认: 0.5
 - count: 线条的总数量, 默认: 150
 - zIndex: 背景的z-index属性，css属性用于控制所在层的位置, 默认: -1
-- ** eId:元素ID，默认：nest **
+** - eId:元素ID，默认：nest **
 
 例如：
 ```html
